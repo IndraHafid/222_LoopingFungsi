@@ -18,7 +18,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -28,10 +28,14 @@
               "RelativeDocumentMoniker": "UCPAlgoritma\\UCPAlgoritma.cpp",
               "ToolTip": "C:\\Users\\Indra Hafid\\Desktop\\Tugas 2\\tugasvisualstudio1\\UCPAlgoritma\\UCPAlgoritma\\UCPAlgoritma.cpp",
               "RelativeToolTip": "UCPAlgoritma\\UCPAlgoritma.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAlAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-21T06:42:07.912Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
